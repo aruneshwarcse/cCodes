@@ -47,4 +47,4 @@ int main()
         printf("%d ",d[i]);
 }
 
-//by snk
+//
